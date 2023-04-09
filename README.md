@@ -1,3 +1,5 @@
 # Digit-Recognizer- 
--Using Augmentation with Scipy
--Using CNNs 
+
+* Using Augmentation data with Scipy
+
+* Using CNNs 
